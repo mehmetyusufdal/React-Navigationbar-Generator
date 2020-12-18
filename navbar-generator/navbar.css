@@ -1,0 +1,28 @@
+.disablecopy {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+.navigationbar {
+    padding: 15px;
+    background-color: rgba(00, 00, 00, 0.3);
+}
+
+.navigationbarScrolled {
+    padding: 15px;
+    background-color: rgba(00, 00, 00, 0.8);
+}
+
+.navtext {
+    font-weight: bold;
+    font-size: large;
+}
+
+.menuicon {
+    margin-left: 15px;
+    color: white;
+}
